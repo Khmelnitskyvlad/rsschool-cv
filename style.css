@@ -1,0 +1,35 @@
+body {
+    background-color: cornsilk;
+}
+
+main {
+    font-family: 'Kumbh Sans', sans-serif;
+    width: 950px;
+    margin: auto;
+}
+
+
+.information {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+}
+
+.information_text {
+    max-width: 600px;
+}
+
+.information_text li {
+    line-height: 26px;
+}
+
+
+.information_img {
+    max-width: 300px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    margin: 50px 0 70px 0;
+}
